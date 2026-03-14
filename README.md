@@ -6,7 +6,7 @@ Este projeto consiste em uma automação desenvolvida em **C#** para otimizar o 
 
 ## 📸 Demonstração
 
-![Automação NFCe](AUTOMACAO.png)
+![Automação NFCe](AUTOMACAO.PNG)
 
 ---
 
